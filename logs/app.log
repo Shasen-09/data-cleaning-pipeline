@@ -1,5 +1,0 @@
-2026-05-25 17:24:49,004 | Loading file: data/messy.csv
-2026-05-25 17:24:49,009 | 20 rows loaded from csv
-2026-05-25 17:24:49,009 | Loaded 20 rows from file
-2026-05-25 17:24:49,015 | Cleaned data: 14 valid rows
-2026-05-25 17:24:49,023 | Validated data: 14 final records
