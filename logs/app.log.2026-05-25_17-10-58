@@ -1,6 +1,0 @@
-2026-05-25 17:10:55,078 | Application started
-2026-05-25 17:10:58,038 | Loading file: data/messy.json
-2026-05-25 17:10:58,038 | 20 loaded from json
-2026-05-25 17:10:58,038 | Loaded 20 rows from file
-2026-05-25 17:10:58,043 | Cleaned data: 14 valid rows
-2026-05-25 17:10:58,048 | Validated data: 14 final records
