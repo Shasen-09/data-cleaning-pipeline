@@ -1,0 +1,142 @@
+[
+  {
+    "name": "john doe",
+    "email": "JOHN@EMAIL.COM",
+    "age": "25",
+    "salary": "$5000",
+    "created_at": "2025-01-01"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice@email.com",
+    "age": "30 years",
+    "salary": "7000",
+    "created_at": "01/02/2025"
+  },
+  {
+    "name": "Bob",
+    "email": null,
+    "age": "45",
+    "salary": "$9000",
+    "created_at": "2025/03/15"
+  },
+  {
+    "name": "Charlie",
+    "email": "charlie@email",
+    "age": "200",
+    "salary": "$10000",
+    "created_at": "2025-05-10"
+  },
+  {
+    "name": "david lee",
+    "email": "david@email.com",
+    "age": "-5",
+    "salary": "4000",
+    "created_at": "15/04/2025"
+  },
+  {
+    "name": "Eve Adams",
+    "email": "eve@email.com",
+    "age": "29",
+    "salary": "$-3000",
+    "created_at": "2025-01-20"
+  },
+  {
+    "name": "Frank Miller",
+    "email": "frank@email.com",
+    "age": "unknown",
+    "salary": "6000",
+    "created_at": "2025-02-11"
+  },
+  {
+    "name": "Grace Hopper",
+    "email": "grace@email.com",
+    "age": "35 years old",
+    "salary": "$8500",
+    "created_at": "2025/01/15"
+  },
+  {
+    "name": "Henry Ford",
+    "email": "henry@email.com",
+    "age": "40",
+    "salary": "$12000",
+    "created_at": "not_a_date"
+  },
+  {
+    "name": "Isaac Newton",
+    "email": "isaac@email.com",
+    "age": "84",
+    "salary": "$15000",
+    "created_at": "2025-03-01"
+  },
+  {
+    "name": "john doe",
+    "email": "john@email.com",
+    "age": "25",
+    "salary": "$5000",
+    "created_at": "2025-01-01"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane@email.com",
+    "age": null,
+    "salary": "7500",
+    "created_at": "2025-04-01"
+  },
+  {
+    "name": "Kevin Hart",
+    "email": "KEVIN@EMAIL.COM",
+    "age": "32",
+    "salary": "$8,500",
+    "created_at": "2025-01-12"
+  },
+  {
+    "name": "Laura White",
+    "email": "laura@email.com",
+    "age": "27 years",
+    "salary": "$7200",
+    "created_at": "03/25/2025"
+  },
+  {
+    "name": "Mike Tyson",
+    "email": "mike@email.com",
+    "age": "999",
+    "salary": "$20000",
+    "created_at": "2025-06-01"
+  },
+  {
+    "name": "Nancy Drew",
+    "email": "nancy@email.com",
+    "age": "22",
+    "salary": "unknown",
+    "created_at": "2025-07-07"
+  },
+  {
+    "name": "Oscar Wilde",
+    "email": "oscar@email.com",
+    "age": "41",
+    "salary": "$11000",
+    "created_at": null
+  },
+  {
+    "name": "Peter Parker",
+    "email": "peter@email.com",
+    "age": "18",
+    "salary": "$2500",
+    "created_at": "2025-02-30"
+  },
+  {
+    "name": "Queen Bee",
+    "email": "queen@email.com",
+    "age": "twenty five",
+    "salary": "$7000",
+    "created_at": "2025-08-08"
+  },
+  {
+    "name": "Robert Downey Jr",
+    "email": "robert@email.com",
+    "age": "58",
+    "salary": "$25000",
+    "created_at": "2025/09/09"
+  }
+]

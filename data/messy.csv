@@ -1,0 +1,21 @@
+name,email,age,salary,created_at
+ john doe ,JOHN@EMAIL.COM ,25,$5000,2025-01-01
+Alice Smith,alice@email.com, 30 years ,7000,01/02/2025
+Bob,,45,$9000,2025/03/15
+Charlie,charlie@email,200,$10000,2025-05-10
+david lee,david@email.com,-5,4000,15/04/2025
+Eve Adams,eve@email.com,29,$-3000,2025-01-20
+Frank Miller,frank@email.com,unknown,6000,2025-02-11
+Grace Hopper,grace@email.com,35 years old,$8500,2025/01/15
+Henry Ford,henry@email.com,40,$12000,not_a_date
+Isaac Newton,isaac@email.com,84,$15000,2025-03-01
+ john doe ,john@email.com,25,$5000,2025-01-01
+Jane Doe,jane@email.com,,7500,2025-04-01
+Kevin Hart,KEVIN@EMAIL.COM, 32 ,$8,500,2025-01-12
+Laura White,laura@email.com,27 years,$7200,03/25/2025
+Mike Tyson,mike@email.com,999,$20000,2025-06-01
+Nancy Drew,nancy@email.com,22,unknown,2025-07-07
+Oscar Wilde,oscar@email.com,41,$11000,
+Peter Parker,peter@email.com,18,$2500,2025-02-30
+Queen Bee,queen@email.com,twenty five,$7000,2025-08-08
+Robert Downey Jr,robert@email.com,58,$25000,2025/09/09
